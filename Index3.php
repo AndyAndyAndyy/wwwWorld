@@ -1,3 +1,4 @@
 <?php
-Echo "GOOD GAME";
+Echo "GOOD GfhdfhdrhAME";
+
 ?>
