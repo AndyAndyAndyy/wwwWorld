@@ -1,0 +1,4 @@
+<?php
+Echo "Hey Gays";
+?>
+
